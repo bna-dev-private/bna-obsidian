@@ -55,3 +55,21 @@ O que precisa:
 - Atividade
 - Tempo de mercado
 - Tempo de formado
+
+
+### Reunião Chubb
+- Pessoas: Bianca Sabino e Lucas Maia
+- Facility
+	- Tabela de precificação -> não contempla retroatividade
+	- Franquias, prêmios, limites e especialidades
+		- Restrição para cirurgião plástico
+	- Comissão 20% - 25%
+	- API vai de acordo
+	- Entram na plataforma e realizam a cotação. Seguir conforme o prêmio da tabela
+		- Pode analisar para criar a API
+- FlipSaúde -> 8k médicos
+- Descontos
+	- Até 15% de desconto
+		- Exceto para ginecologia / obstetrícia
+		- Sob análise
+		- Vai vir junto com a tabela
